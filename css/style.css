@@ -157,3 +157,46 @@ html {
 .section{
     border: 2px solid pink;
 }
+
+.container {
+  height: 100vh;
+  display: flex;
+  justify-content:center;
+  align-items: center;
+}
+
+.circulo {
+  height:200px;
+  width:200px;
+}
+
+.circulos ul:nth-child(1) {
+  background-color: rebeccapurple;
+  border-radius: 50%;
+  filter: blur(35px);
+}
+.circulos ul:nth-child(2) {
+  background-color: red;
+  border-radius: 50%;
+  filter: blur(35px);
+}
+.circulos ul:nth-child(3) {
+  background-color: blue;
+  border-radius: 50%;
+  filter: blur(35px);
+}
+.circulos ul:nth-child(4) {
+  background-color: violet;
+  border-radius: 50%;
+  filter: blur(35px);
+}
+.circulos ul:nth-child(5) {
+  background-color: yellow;
+  border-radius: 50%;
+  filter: blur(35px);
+}
+.circulos ul:nth-child(6) {
+  background-color: green;
+  border-radius: 50%;
+  filter: blur(35px);
+}
