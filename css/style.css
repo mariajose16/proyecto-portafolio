@@ -196,7 +196,7 @@ html {
   filter: blur(35px);
 }
 .circulos ul:nth-child(6) {
-  background-color: green;
+  background-color: greenyellow;
   border-radius: 50%;
   filter: blur(35px);
 }
